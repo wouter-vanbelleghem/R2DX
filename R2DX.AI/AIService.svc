@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="R2DX.AI.AIService" CodeBehind="AIService.svc.cs" %>
